@@ -1,0 +1,11 @@
+{
+  "name": "classcar",
+  "version": "1.0.0",
+  "description": "\"Object Oriented Programming Class Car\"",
+  "main": "classCar.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "\"Qudus YEKEEN\"",
+  "license": "ISC"
+}
