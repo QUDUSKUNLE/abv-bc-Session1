@@ -1,0 +1,11 @@
+{
+  "name": "getaritgeo",
+  "version": "1.0.0",
+  "description": "\"Using Jasmine framework to run Unit tests for get Arithmetic and Geometric Series between 0 and n\"",
+  "main": "getAritGeo.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "\"Qudus YEKEEN\"",
+  "license": "ISC"
+}
